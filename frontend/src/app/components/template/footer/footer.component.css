@@ -1,8 +1,9 @@
-.footer{
+.footer {
   position: fixed;
   bottom: 0;
   display: flex;
-  direction:"flex-end";
+  justify-content: flex-end;
+
 }
 
 .footer > span {
