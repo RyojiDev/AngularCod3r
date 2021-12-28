@@ -11,7 +11,7 @@ import { MatTable } from '@angular/material/table';
 export class ProductReadComponent implements OnInit {
 
   products: Product[]
-  displayedColumns = ['id', 'name', 'price'];
+  displayedColumns = ['id', 'name', 'price', 'action'];
   @ViewChild(MatTable) table: MatTable<Product>;
 
 
