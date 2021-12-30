@@ -7,12 +7,13 @@
     },
     {
       "id": 2,
-      "name": "Notebook",
+      "name": "Notebook Dell",
       "price": 12000.89
     },
     {
       "id": 3,
       "name": "Samsung s20 ",
-      "price": 5000.00
-    }]
+      "price": 5000
+    }
+  ]
 }
