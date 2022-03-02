@@ -18,7 +18,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 .msg-error{
   background-color: #28a745;
-  color: #e35e6b;
+  color: #FFF;
 }
 
 html, body { height: 100%; }
